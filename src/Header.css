@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "Migra";
+  src: url("./fonts/Migra/Migra-Extrabold.otf");
+}
+@font-face {
+  font-family: "Malayalam";
+  src: url("./fonts/Malayalam/MalayalamMN.ttc");
+}
+/* .header{
+    background-color: blueviolet;
+} */
+
+.logo{
+  font-family: "Migra";
+  font-size: 48px;
+  color: #6B705C;
+}
+
+#links{
+  font-family: "Malayalam";
+  font-size: 24px;
+  color: #565757;
+
+  /* border: 2px solid black;  */
+}
+
+.resume{
+  padding-left: 50px;
+}
+
+.projects{
+  padding-left: 50px;
+}
