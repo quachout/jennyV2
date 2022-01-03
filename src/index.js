@@ -7,6 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Header from './Header';
 import Landing from './Landing';
+import Experience from './Experience';
 ReactDOM.render(
   // <React.StrictMode>
   //   <Header />
@@ -15,6 +16,7 @@ ReactDOM.render(
   <React.StrictMode>
     <Header />
     <Landing />
+    <Experience />
   </React.StrictMode>,
   
     // <Header />,
