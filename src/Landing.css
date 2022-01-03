@@ -32,3 +32,14 @@
   padding-top: .5em;
 }
 
+#socials{
+  padding-top: 2em;
+}
+
+.linkedin{
+  text-decoration: underline;
+}
+
+.email{
+  text-decoration: underline;
+}
