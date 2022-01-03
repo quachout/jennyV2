@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/jennyV2/index.html/static/css/main.c0f79746.css",
-    "main.js": "/jennyV2/index.html/static/js/main.b0d83f36.js",
+    "main.css": "/jennyV2/index.html/static/css/main.81d89f5f.css",
+    "main.js": "/jennyV2/index.html/static/js/main.b4314f9e.js",
     "static/js/787.93f6542e.chunk.js": "/jennyV2/index.html/static/js/787.93f6542e.chunk.js",
     "static/media/pic-of-me.gif": "/jennyV2/index.html/static/media/pic-of-me.ff54214a562a9e43c2b3.gif",
     "static/media/MalayalamMN.ttc": "/jennyV2/index.html/static/media/MalayalamMN.4f328a671316511364db.ttc",
     "static/media/PTSans-Bold.ttf": "/jennyV2/index.html/static/media/PTSans-Bold.4597bd693b40f5010303.ttf",
     "static/media/PTSans-Regular.ttf": "/jennyV2/index.html/static/media/PTSans-Regular.334e18134af8ff169983.ttf",
+    "static/media/PTSans-BoldItalic.ttf": "/jennyV2/index.html/static/media/PTSans-BoldItalic.928ac59f167f7d14b406.ttf",
     "static/media/Migra-Extrabold.otf": "/jennyV2/index.html/static/media/Migra-Extrabold.0d38ccf2dc0c9c119102.otf",
+    "static/media/equinix.png": "/jennyV2/index.html/static/media/equinix.acd709e51b04f0050fc6.png",
     "static/media/logo.svg": "/jennyV2/index.html/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jennyV2/index.html/index.html",
-    "main.c0f79746.css.map": "/jennyV2/index.html/static/css/main.c0f79746.css.map",
-    "main.b0d83f36.js.map": "/jennyV2/index.html/static/js/main.b0d83f36.js.map",
+    "main.81d89f5f.css.map": "/jennyV2/index.html/static/css/main.81d89f5f.css.map",
+    "main.b4314f9e.js.map": "/jennyV2/index.html/static/js/main.b4314f9e.js.map",
     "787.93f6542e.chunk.js.map": "/jennyV2/index.html/static/js/787.93f6542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0f79746.css",
-    "static/js/main.b0d83f36.js"
+    "static/css/main.81d89f5f.css",
+    "static/js/main.b4314f9e.js"
   ]
 }
