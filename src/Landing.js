@@ -25,8 +25,8 @@ function Landing() {
               </Row>
               <Col className="d-flex align-items-center justify-content-center" id="socials">
                 <Row >
-                  <Col className='linkedin'>linkedin</Col>
-                  <Col className='email'>email</Col>
+                  <Col className='linkedin'><a href="https://www.linkedin.com/in/jenhofilena/" target="_blank">linkedin</a></Col>
+                  <Col className='email' ><a href={"mailto:j9hofilena"}>email</a></Col>
                 </Row>
               </Col>
             </Col>

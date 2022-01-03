@@ -10,9 +10,11 @@
     background-color: blueviolet;
 } */
 
-.logo{
+.logo > a{
+  text-decoration: none;
   font-family: "Migra";
   font-size: 48px;
+  cursor: pointer;
   color: #6B705C;
 }
 
@@ -24,10 +26,31 @@
   /* border: 2px solid black;  */
 }
 
-.resume{
-  padding-left: 50px;
+.experience > a{
+  font-family: "Malayalam";
+  font-size: 24px;
+  color: #565757;
+  text-decoration: none;
+  cursor: pointer;
+}
+.resume > a{
+  font-family: "Malayalam";
+  font-size: 24px;
+  color: #565757;
+  text-decoration: none;
+  margin-left: 50px;
+  cursor: pointer;
 }
 
-.projects{
-  padding-left: 50px;
+.projects > a{
+  font-family: "Malayalam";
+  font-size: 24px;
+  color: #565757;
+  text-decoration: none;
+  margin-left: 50px;
+  cursor: pointer;
 }
+
+/* .jhoText{
+  cursor: pointer;
+} */

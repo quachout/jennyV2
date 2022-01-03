@@ -31,6 +31,13 @@
   /* border: 2px solid black; */
 }
 
+li {
+  font-size: 8px;
+}
+li span {
+  font-size: 18px;
+}
+
 .companyName{
 /* border: 2px solid black; */
   font-family: "PT_Sans_bold";
@@ -69,11 +76,27 @@
   margin-top: 1em;
 }
 
-li {
-  font-size: 8px;
-}
-li span {
-  font-size: 18px;
+/* #equinixPic{
+  width: 400px;
+  height: auto;
+} */
+
+#orionPic{
+  width:500px;
+  height: auto;
+  margin-top: -4em;
+  /* border: 2px solid red; */
 }
 
+#clock{
+  width:400px;
+  height: auto;
+}
+
+#thanks{
+  margin-top: 6em;
+  font-family: "PT_Sans_regular"; 
+  font-size: 24px;
+  color: #565757;
+}
 

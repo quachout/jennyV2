@@ -36,10 +36,12 @@
   padding-top: 2em;
 }
 
-.linkedin{
+.linkedin > a{
+  color: #6B705C;
   text-decoration: underline;
 }
 
-.email{
+.email > a{
+  color: #6B705C;
   text-decoration: underline;
 }
