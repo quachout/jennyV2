@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jennyV2/static/css/main.ab443809.css",
+    "main.js": "/jennyV2/static/js/main.2c2c8405.js",
+    "static/js/787.93f6542e.chunk.js": "/jennyV2/static/js/787.93f6542e.chunk.js",
+    "static/media/pic-of-me.gif": "/jennyV2/static/media/pic-of-me.ff54214a562a9e43c2b3.gif",
+    "static/media/MalayalamMN.ttc": "/jennyV2/static/media/MalayalamMN.4f328a671316511364db.ttc",
+    "static/media/PTSans-Bold.ttf": "/jennyV2/static/media/PTSans-Bold.4597bd693b40f5010303.ttf",
+    "static/media/PTSans-Regular.ttf": "/jennyV2/static/media/PTSans-Regular.334e18134af8ff169983.ttf",
+    "static/media/Migra-Extrabold.otf": "/jennyV2/static/media/Migra-Extrabold.0d38ccf2dc0c9c119102.otf",
+    "static/media/logo.svg": "/jennyV2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jennyV2/index.html",
+    "main.ab443809.css.map": "/jennyV2/static/css/main.ab443809.css.map",
+    "main.2c2c8405.js.map": "/jennyV2/static/js/main.2c2c8405.js.map",
+    "787.93f6542e.chunk.js.map": "/jennyV2/static/js/787.93f6542e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab443809.css",
+    "static/js/main.2c2c8405.js"
+  ]
+}
