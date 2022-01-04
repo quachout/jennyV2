@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/jennyV2/static/css/main.aeebf8a4.css",
-    "main.js": "/jennyV2/static/js/main.74447d5f.js",
-    "static/js/787.93f6542e.chunk.js": "/jennyV2/static/js/787.93f6542e.chunk.js",
-    "static/media/pic-of-me.gif": "/jennyV2/static/media/pic-of-me.ff54214a562a9e43c2b3.gif",
-    "static/media/MalayalamMN.ttc": "/jennyV2/static/media/MalayalamMN.4f328a671316511364db.ttc",
-    "static/media/PTSans-Bold.ttf": "/jennyV2/static/media/PTSans-Bold.4597bd693b40f5010303.ttf",
-    "static/media/PTSans-Regular.ttf": "/jennyV2/static/media/PTSans-Regular.334e18134af8ff169983.ttf",
-    "static/media/PTSans-BoldItalic.ttf": "/jennyV2/static/media/PTSans-BoldItalic.928ac59f167f7d14b406.ttf",
-    "static/media/Migra-Extrabold.otf": "/jennyV2/static/media/Migra-Extrabold.0d38ccf2dc0c9c119102.otf",
-    "static/media/clock.png": "/jennyV2/static/media/clock.a13da0c650263ef79cf5.png",
-    "static/media/robot.png": "/jennyV2/static/media/robot.f393ace43ba9edf9afef.png",
-    "static/media/global-ties.png": "/jennyV2/static/media/global-ties.e662a454337b3292c60c.png",
-    "static/media/orion.png": "/jennyV2/static/media/orion.723814b47c7aaa8499e7.png",
-    "static/media/hcsw.png": "/jennyV2/static/media/hcsw.5256f91b2a3bd282b4ab.png",
-    "static/media/3d.png": "/jennyV2/static/media/3d.62d7aca27f4981923c89.png",
-    "static/media/equinix.png": "/jennyV2/static/media/equinix.acd709e51b04f0050fc6.png",
-    "static/media/logo.svg": "/jennyV2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/jennyV2/index.html",
-    "main.aeebf8a4.css.map": "/jennyV2/static/css/main.aeebf8a4.css.map",
-    "main.74447d5f.js.map": "/jennyV2/static/js/main.74447d5f.js.map",
-    "787.93f6542e.chunk.js.map": "/jennyV2/static/js/787.93f6542e.chunk.js.map"
+    "main.css": "/static/css/main.fc7cdedf.css",
+    "main.js": "/static/js/main.8cd708bd.js",
+    "static/js/787.93f6542e.chunk.js": "/static/js/787.93f6542e.chunk.js",
+    "static/media/pic-of-me.gif": "/static/media/pic-of-me.ff54214a562a9e43c2b3.gif",
+    "static/media/MalayalamMN.ttc": "/static/media/MalayalamMN.4f328a671316511364db.ttc",
+    "static/media/PTSans-Bold.ttf": "/static/media/PTSans-Bold.4597bd693b40f5010303.ttf",
+    "static/media/PTSans-Regular.ttf": "/static/media/PTSans-Regular.334e18134af8ff169983.ttf",
+    "static/media/PTSans-BoldItalic.ttf": "/static/media/PTSans-BoldItalic.928ac59f167f7d14b406.ttf",
+    "static/media/Migra-Extrabold.otf": "/static/media/Migra-Extrabold.0d38ccf2dc0c9c119102.otf",
+    "static/media/clock.png": "/static/media/clock.a13da0c650263ef79cf5.png",
+    "static/media/robot.png": "/static/media/robot.f393ace43ba9edf9afef.png",
+    "static/media/global-ties.png": "/static/media/global-ties.e662a454337b3292c60c.png",
+    "static/media/orion.png": "/static/media/orion.723814b47c7aaa8499e7.png",
+    "static/media/hcsw.png": "/static/media/hcsw.5256f91b2a3bd282b4ab.png",
+    "static/media/3d.png": "/static/media/3d.62d7aca27f4981923c89.png",
+    "static/media/equinix.png": "/static/media/equinix.acd709e51b04f0050fc6.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.fc7cdedf.css.map": "/static/css/main.fc7cdedf.css.map",
+    "main.8cd708bd.js.map": "/static/js/main.8cd708bd.js.map",
+    "787.93f6542e.chunk.js.map": "/static/js/787.93f6542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aeebf8a4.css",
-    "static/js/main.74447d5f.js"
+    "static/css/main.fc7cdedf.css",
+    "static/js/main.8cd708bd.js"
   ]
 }
