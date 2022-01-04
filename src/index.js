@@ -17,6 +17,7 @@ ReactDOM.render(
     <Header />
     <Landing />
     <Experience />
+
   </React.StrictMode>,
   
     // <Header />,
