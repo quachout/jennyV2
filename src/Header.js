@@ -19,11 +19,17 @@ function Header() {
             <Col className="logo" ><a href='index.html' >jho.</a></Col>
 
             <Col className="d-flex align-items-center justify-content-end" id="links">
+            {/* <Col className="" id=""> */}
               <Row className="">
                 <Col className="experience"><a href='#experience'>experience.</a></Col>
                 <Col className="projects"><a href='#projects'>projects.</a></Col>
                 <Col className="resume" ><a href='https://drive.google.com/file/d/1NtTyxyTRO8X74f7C7cML7gzpLrqffYiZ/view' target="_blank">resume.</a></Col>
               </Row>
+              {/* <ol>
+                <li><a href='#experience'>experience</a></li>
+                <li><a href='#projects'>projects.</a></li>
+                <li><a href='https://drive.google.com/file/d/1NtTyxyTRO8X74f7C7cML7gzpLrqffYiZ/view' target="_blank">resume.</a></li>
+              </ol> */}
             </Col>
           </Row>
       </Container>
