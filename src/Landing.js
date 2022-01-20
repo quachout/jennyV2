@@ -9,11 +9,10 @@ import { Col } from "react-bootstrap";
 
 function Landing() {
   return (
-    <Container style={{maxWidth:"1100px",paddingTop:"5em"}}>
+    <Container style={{maxWidth:"1100px",paddingTop:"5em"}}> 
       <Row>
-            <Col><img src={jennyPic} alt="profile pic :)"  className="profilePic" /></Col>
-
-            <Col >
+            <Col className=' pic' xs={12} sm={12} md={6}><img src={jennyPic} alt="profile pic :)"  className="mx-auto d-block profilePic" /></Col>
+            <Col xs={12} sm={12} md={6}>
               <Row className="hey">
                 <div>hey there!</div>               
               </Row>

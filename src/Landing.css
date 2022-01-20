@@ -17,6 +17,8 @@
 .profilePic{
   height: 400px;
   width: auto;
+  /* border: 2px solid black; */
+  
 }
 .imJenny{
   font-family: "PT_Sans_bold";
@@ -44,4 +46,20 @@
 .email > a{
   color: #6B705C;
   text-decoration: underline;
+}
+/* .pic{
+  border: 2px solid black;
+} */
+/* img{
+  border: 2px solid black;
+  margin-left: ;
+} */
+/* row{
+  display: flex;
+} */
+
+@media screen and (max-width:420px){  
+  .profilePic{
+    margin-left: -1em !important;
+  }
 }

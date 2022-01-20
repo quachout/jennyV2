@@ -23,7 +23,7 @@ function Experience() {
 
       {/* equinix */}
       <Row style={{paddingTop:"5em"}}>
-        <Col>
+        <Col xs={12} sm={12} md={6}>
           <Row className="jobHeading">
             <Col className="companyName">
               Equinix Inc
@@ -50,15 +50,15 @@ function Experience() {
           </Row>
         </Col>
 
-        <Col className="d-flex align-items-center justify-content-center"><img src={equinixPic} alt="equinix pic" id="equinixPic" /> </Col>
+        <Col className="d-flex align-items-center justify-content-center" xs={12} sm={12} md={6}><img src={equinixPic} alt="equinix pic" id="equinixPic" /> </Col>
       </Row>
 
       {/* global ties */}
       <Row style={{paddingTop:"5em"}}>
         
-        <Col className="d-flex align-items-center justify-content-center" id="globaleTies"><img src={globalTies} alt="globalTies" id=""  /> </Col>
+        <Col className="d-flex align-items-center justify-content-center" xs={12} sm={12} md={6}id="globaleTies"><img src={globalTies} alt="globalTies" id=""  /> </Col>
       
-        <Col>
+        <Col xs={12} sm={12} md={6}>
           <Row className="jobHeading">
             <Col className="companyName">
               Global TIES Program — UCSD 
@@ -88,7 +88,7 @@ function Experience() {
 
       {/* lockheed martin space */}
       <Row style={{paddingTop:"5em"}}>
-        <Col>
+        <Col xs={12} sm={12} md={6}>
           <Row className="jobHeading">
             <Col className="companyName">
             Lockheed Martin Space
@@ -113,14 +113,14 @@ function Experience() {
           </Row>
         </Col>
 
-        <Col className="d-flex align-items-center justify-content-center" id="orion"><img src={orion} alt="globalTies" id="orionPic"  /> </Col>
+        <Col className="d-flex align-items-center justify-content-center" xs={12} sm={12} md={6} id="orion"><img src={orion} alt="globalTies" id="orionPic"  /> </Col>
       </Row>
 
       {/* lockheed martin space */}
       <Row style={{paddingTop:"5em"}}>
-        <Col className="d-flex align-items-center justify-content-center" id=""><img src={hcsw} alt="globalTies" id=""  /> </Col>
+        <Col className="d-flex align-items-center justify-content-center" xs={12} sm={12} md={6} id=""><img src={hcsw} alt="globalTies" id=""  /> </Col>
 
-        <Col>
+        <Col xs={12} sm={12} md={6}>
           <Row className="jobHeading">
             <Col className="companyName">
             Lockheed Martin
@@ -150,7 +150,7 @@ function Experience() {
     
       {/* l3-pillar Holder */}
       <Row style={{paddingTop:"5em"}}>
-          <Col>
+          <Col xs={12} sm={12} md={6}>
           <Row className="jobHeading">
             <Col className="companyName">
               3-Pillar Holder
@@ -175,14 +175,14 @@ function Experience() {
           </Row>
         </Col>
         
-        <Col className="d-flex align-items-center justify-content-center" id=""><img src={threePillar} alt="3-d pillar" id=""  /> </Col>
+        <Col className="d-flex align-items-center justify-content-center" xs={12} sm={12} md={6} id=""><img src={threePillar} alt="3-d pillar" id=""  /> </Col>
       </Row>     
 
       {/* alarm clock */}
         <Row style={{paddingTop:"5em"}}>
-          <Col className="d-flex align-items-center justify-content-center" id=""><img src={clock} alt="3-d pillar" id="clock"  /> </Col>
+          <Col className="d-flex align-items-center justify-content-center" xs={12} sm={12} md={6} id=""><img src={clock} alt="3-d pillar" id="clock"  /> </Col>
           
-          <Col>
+          <Col xs={12} sm={12} md={6}>
             <Row className="jobHeading">
               <Col className="companyName">
                 Activity Alarm Clock
@@ -210,7 +210,7 @@ function Experience() {
 
       {/* driving robot */}
       <Row style={{paddingTop:"5em"}}>
-          <Col>
+          <Col xs={12} sm={12} md={6}>
           <Row className="jobHeading">
             <Col className="companyName">
               Driving Robot
@@ -235,7 +235,7 @@ function Experience() {
           </Row>
         </Col>
         
-        <Col className="d-flex align-items-center justify-content-center" id=""><img src={robot} alt="robot" id=""  /> </Col>
+        <Col className="d-flex align-items-center justify-content-center" xs={12} sm={12} md={6} id=""><img src={robot} alt="robot" id=""  /> </Col>
       </Row>     
 
       <div className="text-center" id="thanks">thanks for stopping by!</div>

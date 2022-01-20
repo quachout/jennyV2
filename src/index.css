@@ -1,9 +1,11 @@
-body {
+body ,html{
   background-color: #EDEDE9  !important;
   /* EDEDE9 
   d4d4c8 */
 
   /* d4d4c8 */
+
+  overflow-x: hidden !important;
 }
 
 

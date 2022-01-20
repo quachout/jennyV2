@@ -59,3 +59,23 @@ a:hover{
 /* .jhoText{
   cursor: pointer;
 } */
+.hamburger-container{
+  margin-top: 1em;
+  margin-bottom: -5em;
+}
+.logo-hamburger{
+  /* text-decoration: none; */
+  font-family: "Migra";
+  font-size: 48px;
+  cursor: pointer;
+  color: #6B705C !important;
+}
+.hamburger-button{
+  border: 1.5px solid #6B705C !important;
+}
+
+.links-hamburger{
+  font-family: "Malayalam";
+  font-size: 20px;
+  color: #565757;
+}
