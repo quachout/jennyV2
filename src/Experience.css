@@ -26,18 +26,12 @@
   text-align: center;
   /* border: 2px solid black; */
 }
-
-.jobHeading{
-  /* border: 2px solid black; */
-}
-
 li {
   font-size: 8px;
 }
 li span {
   font-size: 18px;
 }
-
 .companyName{
 /* border: 2px solid black; */
   font-family: "PT_Sans_bold";
@@ -56,13 +50,10 @@ li span {
   color: #565757;
   font-size: 18px;
 }
-
-
 .jobPosition{
 /* border: 2px solid black; */
   margin-top: .5em;
 }
-
 .jobDate{
   text-align: right;
   font-family: "PT_Sans_bold_italic";
@@ -100,3 +91,7 @@ li span {
   color: #565757;
 }
 
+/* makes the bullet points inside the container  */
+ul{
+  list-style-position: inside;
+}

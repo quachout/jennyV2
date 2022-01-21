@@ -90,10 +90,10 @@ function Experience() {
       <Row style={{paddingTop:"5em"}}>
         <Col xs={12} sm={12} md={6}>
           <Row className="jobHeading">
-            <Col className="companyName">
+            <Col className="companyName" >
             Lockheed Martin Space
             </Col>
-            <Col className="city">
+            <Col className="city" >
               Littleton, CO
             </Col>
           </Row>
