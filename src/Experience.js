@@ -23,6 +23,8 @@ function Experience() {
 
       {/* equinix */}
       <Row style={{paddingTop:"5em"}}>
+      <Col className="d-md-none d-flex align-items-center justify-content-center" xs={12} sm={12} md={6}><img src={equinixPic} alt="equinix pic" id="equinixPic" /> </Col>
+
         <Col xs={12} sm={12} md={6}>
           <Row className="jobHeading">
             <Col className="companyName">
@@ -50,7 +52,8 @@ function Experience() {
           </Row>
         </Col>
 
-        <Col className="d-flex align-items-center justify-content-center" xs={12} sm={12} md={6}><img src={equinixPic} alt="equinix pic" id="equinixPic" /> </Col>
+        <Col className="d-md-block d-none d-flex align-items-center justify-content-center" xs={12} sm={12} md={6}><img src={equinixPic} alt="equinix pic" id="equinixPic" /> </Col>
+        
       </Row>
 
       {/* global ties */}
@@ -88,6 +91,8 @@ function Experience() {
 
       {/* lockheed martin space */}
       <Row style={{paddingTop:"5em"}}>
+        <Col className="d-md-none d-flex align-items-center justify-content-center" xs={12} sm={12} md={6} id="orion"><img src={orion} alt="globalTies" id="orionPic"  /> </Col>
+
         <Col xs={12} sm={12} md={6}>
           <Row className="jobHeading">
             <Col className="companyName" >
@@ -113,7 +118,8 @@ function Experience() {
           </Row>
         </Col>
 
-        <Col className="d-flex align-items-center justify-content-center" xs={12} sm={12} md={6} id="orion"><img src={orion} alt="globalTies" id="orionPic"  /> </Col>
+        <Col className="d-md-block d-none d-flex align-items-center justify-content-center" xs={12} sm={12} md={6} id="orion"><img src={orion} alt="globalTies" id="orionPic"  /> </Col>
+       
       </Row>
 
       {/* lockheed martin space */}
@@ -150,6 +156,8 @@ function Experience() {
     
       {/* l3-pillar Holder */}
       <Row style={{paddingTop:"5em"}}>
+          <Col className="d-md-none d-flex align-items-center justify-content-center" xs={12} sm={12} md={6} id=""><img src={threePillar} alt="3-d pillar" id=""  /> </Col>
+          
           <Col xs={12} sm={12} md={6}>
           <Row className="jobHeading">
             <Col className="companyName">
@@ -175,7 +183,8 @@ function Experience() {
           </Row>
         </Col>
         
-        <Col className="d-flex align-items-center justify-content-center" xs={12} sm={12} md={6} id=""><img src={threePillar} alt="3-d pillar" id=""  /> </Col>
+        <Col className="d-md-block d-none d-flex align-items-center justify-content-center" xs={12} sm={12} md={6} id=""><img src={threePillar} alt="3-d pillar" id=""  /> </Col>
+        
       </Row>     
 
       {/* alarm clock */}
@@ -210,6 +219,8 @@ function Experience() {
 
       {/* driving robot */}
       <Row style={{paddingTop:"5em"}}>
+          <Col className="d-md-none align-items-center justify-content-center" xs={12} sm={12} md={6} ><img src={robot} alt="robot" id="drivingRobotPic"  /> </Col>
+          
           <Col xs={12} sm={12} md={6}>
           <Row className="jobHeading">
             <Col className="companyName">
@@ -235,7 +246,8 @@ function Experience() {
           </Row>
         </Col>
         
-        <Col className="d-flex align-items-center justify-content-center" xs={12} sm={12} md={6} id=""><img src={robot} alt="robot" id=""  /> </Col>
+        <Col className="d-md-block d-none align-items-center justify-content-center" xs={12} sm={12} md={6} id=""><img src={robot} alt="robot" id=""  /> </Col>
+        
       </Row>     
 
       <div className="text-center" id="thanks">thanks for stopping by!</div>
