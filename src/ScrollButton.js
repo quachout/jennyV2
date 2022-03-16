@@ -31,8 +31,8 @@ const ScrollTopArrow = () =>{
   // <button><img src="./images/chevrons-top.png" alt="up arrow" className="scrollTop" onClick={scrollTop} style={{height: 40, display: showScroll ? 'flex' : 'none'}}/></button>
   return (
     // <img src="./images/chevrons-top.png" alt="up arrow" className="scrollTop" onClick={scrollTop} style={{height: 40, display: showScroll ? 'flex' : 'none'}}/>
-    <Container style={{maxWidth:"1100px"}}>
-      <img src={upArrow} alt="up arrow" className="scrollTop" onClick={scrollTop} style={{right: '5em', height: 40, display: showScroll ? 'flex' : 'none'}}/>
+    <Container className='upButton' style={{maxWidth:"1100px"}}>
+      <img src={upArrow} alt="up arrow" className="scrollTop" onClick={scrollTop} style={{ right: '2em',height: 40, display: showScroll ? 'flex' : 'none'}}/>
     </Container>
   );
 }

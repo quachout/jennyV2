@@ -55,7 +55,7 @@
   animation: fadeIn 0.3s;
   transition: opacity 0.4s;
   opacity: 1;
-
+  
 }
 
 .scrollTop:hover{
@@ -70,3 +70,4 @@
     opacity: 0.5;
   }
 }
+
