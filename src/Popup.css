@@ -1,0 +1,8 @@
+.overlay {
+  z-index: 10;
+  filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.3));
+  font-size: 30px;
+  border-color: #495371;
+  color: #EEEEEE;
+  opacity: 0.95;
+}

@@ -8,15 +8,20 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './Header';
 import Landing from './Landing';
 import Experience from './Experience';
+import Popup from './Popup';
+
 ReactDOM.render(
   // <React.StrictMode>
   //   <Header />
   //   <App />
   // </React.StrictMode>,
   <React.StrictMode>
+    {/* <Popup /> */}
     <Header />
     <Landing />
     <Experience />
+ 
+    <App />
 
   </React.StrictMode>,
   
